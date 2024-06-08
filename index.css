@@ -22,3 +22,12 @@
      height: 100vh;
      background-color: #26284e;
  }
+
+ .header .nav-bar{
+     width: 90%;
+     height: 100vh;
+     margin: auto;
+     color: #fff;
+     display: flex;
+     
+ }
