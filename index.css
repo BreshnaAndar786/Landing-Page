@@ -1,0 +1,24 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+
+ a,a:hover{
+    text-decoration: none;
+    color: #fff;
+ }
+
+ ul{
+     list-style: none;
+ }
+
+ li{
+     display: block;
+ }
+
+ .header{
+     width: 100;
+     height: 100vh;
+     background-color: #26284e;
+ }
