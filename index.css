@@ -73,4 +73,12 @@
 .header .nav-bar .social-media ul li i{
     width: 45px;
     height: 45px;
+    line-height: 45;
+    margin-right: 5px;
+    border-radius: 50px;
+    text-align: center;
+    align-items: center;
+    font-size: 19px;
+    background-color: #cac5c542;
+    transition: all 0.3s ease-in-out;
 }
