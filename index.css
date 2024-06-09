@@ -82,3 +82,8 @@
     background-color: #cac5c542;
     transition: all 0.3s ease-in-out;
 }
+
+.header .nav-bar .social-media ul li i:hover{
+    background-color: rgb(255 0 0/ 0.9);
+    
+}
