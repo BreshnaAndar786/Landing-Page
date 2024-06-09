@@ -151,5 +151,16 @@
 
     .hero .information{
         width: 100%;
-        
+        display:flex;
+        margin-top: 100%;
+    }
+
+    .hero .information .production{
+        margin-right: 50px;
+        line-height: 3px;
+    }
+
+    .hero .information .production h2{
+        font-size: 20px;
+        letter-spacing: 1px;
     }
