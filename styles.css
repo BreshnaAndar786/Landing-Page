@@ -143,3 +143,8 @@
     margin-right: 15px;
     text-transform: capitalize;
 } 
+
+.hero .row .left-sec .discover-btn span{
+    color: #fff;
+    font-size: 45px;
+    }
