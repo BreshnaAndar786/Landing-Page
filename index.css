@@ -85,5 +85,33 @@
 
 .header .nav-bar .social-media ul li i:hover{
     background-color: rgb(255 0 0/ 0.9);
-    
+}
+
+.hero{
+    width: 100%;
+}
+
+.hero .row{
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 50px;
+    margin: auto;
+}
+
+.hero .row .left-sec{
+    width: 30%;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+.hero .row .left-sec h2{
+    font-size: 85px;
+    color: #fff;
+    text-transform: capitalize;
+}
+
+.hero .row .left-sec h2 span{
+    color: #d43242;
 }
