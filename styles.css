@@ -164,3 +164,8 @@
         font-size: 20px;
         letter-spacing: 1px;
     }
+
+    .hero .information .production p{
+        padding-right:0%;
+        letter-spacing: 1px;
+    }
